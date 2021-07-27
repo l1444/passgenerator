@@ -4,4 +4,6 @@ Donc, il y a 2 fichiers! Je te conseille de prendre celui en HTML car plus prati
 
 Le "QR-Code" doit être insérer sur l'application TousAntiCovid sur Android c'est fonctionnel, mais sur iOS ça ne marche absolument pas car ça ne supporte pas le 2D-DOC :(
 
+Aussi, pas d'espace, pas d'accent, pas de trema etc... Ça ne va pas fonctionner aussi!
+
 Gloire à L14, et longue vie au gloireux L14.
