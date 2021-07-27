@@ -9,14 +9,6 @@ function input(question)
     return io.read("*l")
 end
 
-function downloadImage(url)
-    local http = require("socket.http")
-    local body, code = http.request(url)
-    if not body then error(code) end
-    local f = assert(io.open('qr.jpg', 'wb')) 
-    f:write(body)
-    f:close()
-end
 
 print('PassGenerator')
 print('         Gloire à L14, et longue vie au gloirieux L14')
