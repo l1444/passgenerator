@@ -1,4 +1,4 @@
-# A LIRE IMPÉRATIVEMENNT
+# A LIRE IMPÉRATIVEMENT
 
 Donc, il y a 2 fichiers! Je te conseille de prendre celui en HTML car plus pratique, ou sinon main.lua c'est afin de faire l'automatisation et adapter le code pour générer enormement de "qr-code" sous forme de 2D-DOC!!
 
